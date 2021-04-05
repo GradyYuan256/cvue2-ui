@@ -1,0 +1,23 @@
+{
+  "name": "cvue2",
+  "version": "0.0.1",
+  "description": "这是前端UI组集合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackyuan256/cvue2-ui.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "jackyuan256",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackyuan256/cvue2-ui/issues"
+  },
+  "homepage": "https://github.com/jackyuan256/cvue2-ui#readme"
+}
