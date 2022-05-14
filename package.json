@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackyuan256/cvue2-ui.git"
+    "url": "git+https://github.com/GradyYuan256/cvue2-ui.git"
   },
   "keywords": [
     "vue",
     "ui"
   ],
-  "author": "jackyuan256",
+  "author": "GradyYuan256",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jackyuan256/cvue2-ui/issues"
+    "url": "https://github.com/GradyYuan256/cvue2-ui/issues"
   },
-  "homepage": "https://github.com/jackyuan256/cvue2-ui#readme",
+  "homepage": "https://github.com/GradyYuan256/cvue2-ui#readme",
   "dependencies": {
     "vue": "^2.6.12"
   }
